@@ -10,14 +10,17 @@
 
 ### 环境要求
 ```text
-torch==2.2.0
-numpy==1.26.3
-scipy==1.12.0
-scikit-learn==1.4.0
-matplotlib==3.8.2
-tqdm==4.66.1
-einops==0.7.0
-mamba-ssm==1.1.1
+torch==1.13.1+cu117
+numpy==1.23.5
+scipy
+scikit-learn
+matplotlib
+tqdm==4.66.5
+einops==0.8.0
+transformers==4.44.2
+jax==0.4.30
+jaxlib==0.4.30
+mamba-ssm==1.2.0
 ```
 
 ### 安装部署
