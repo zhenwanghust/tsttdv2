@@ -56,9 +56,9 @@ pip install -r requirements.txt
 1. **训练阶段**
    ```python
    state = "train"                 # 运行模式设为训练
-   band = "对应数据集光谱数"       # 同上
-   path = "数据集路径"             # 同上
-   name = "数据集名称（不含后缀）"  # 同上
+   band = "对应数据集光谱数"       
+   path = "数据集路径"             
+   name = "数据集名称（不含后缀）"  
    ```  
    运行命令：
    ```bash
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 ## 🚀 额外信息
 
-- 本课题的基准方法来自IEEE Trans. Geosci. Remote Sens.的文章[Triplet Spectralwise Transformer Network for Hyperspectral Target Detection](https://github.com/shendb2022/TSTTD)。该基准方法的代码实现由[Dubin Shen](https://github.com/shendb2022)完成。
+- 本课题的基准方法来自IEEE Trans. Geosci. Remote Sens.的文章[Triplet Spectralwise Transformer Network for Hyperspectral Target Detection](https://github.com/shendb2022/TSTTD)。该基准方法的代码实现由[Dunbin Shen](https://github.com/shendb2022)完成。
 - 基准方法可以在本实验的环境下运行
 - 原论文信息如下
 ```
