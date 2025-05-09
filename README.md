@@ -19,7 +19,6 @@ tqdm==4.66.1
 einops==0.7.0
 mamba-ssm==1.1.1
 ```
----
 
 ### 安装部署
 ```bash
@@ -51,7 +50,6 @@ pip install -r requirements.txt
    ```bash
    python Main.py
    ```
----
 
 ### **复现训练过程**
 若要重新训练模型并生成结果：
