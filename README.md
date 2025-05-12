@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ## 🚀 额外信息
 
-- 本课题的基准方法来自IEEE Trans. Geosci. Remote Sens.的文章[Triplet Spectralwise Transformer Network for Hyperspectral Target Detection](https://github.com/shendb2022/TSTTD)。该基准方法的代码实现由[Dunbin Shen](https://github.com/shendb2022)完成。
+- 本课题的基准方法来自IEEE Trans. Geosci. Remote Sens.的文章[Triplet Spectralwise Transformer Network for Hyperspectral Target Detection](https://ieeexplore.ieee.org/document/10223236)。该基准方法的代码实现由[Dunbin Shen](https://github.com/shendb2022)完成。
 - 基准方法可以在本实验的环境下运行
 - 原论文信息如下
 ```
