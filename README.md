@@ -1,4 +1,4 @@
-# [高光谱遥感目标检测算法改进]
+# 高光谱遥感目标检测算法改进
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
